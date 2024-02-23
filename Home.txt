@@ -2,48 +2,48 @@ test
 test 2
 
 Business Results:
--	SLA Report:
-o	Complete the Business Requirements Document and secure the Business sign-off
-o	Co-ordinate with Fraud Tech team to build the Prod API
-o	Develop the Altery workflow to pull the data from UAT
-o	Analyse the future benefits, KPIs & OKRs and quantify their metrics
-o	Identify the strategic solution which is a Databricks migration that is on the Fraud team roadmap for Q2
-o	Determine if the new strategic solution aligns with our Fraud Remediation team’s goals and project requirements
-o	Coordinate between Anti Fraud product owner, Tech team and Remediation team to find out if this strategic solution can replace our tactical solution
-o	Finalize the timelines with the team to have a strategic solution in place that aligns with Fraud Remediation team 
 
--	Xceptor Migration:
-o	Coordinate the migration process between OTS, LOB partners and CIB teams
-o	Get the solutions prioritized from each LOB partner that require a new solution from OTS/CIB team
-o	Communicate the prioritizations to OTS/CIB team and lead the effort of building a new solution with the goal of completing them all by Q2
-o	Once the solutions are prioritized, help OTS/CIB team to collect the updated BRDs, Input and output file samples 
-o	Track & monitor the solutions that are being built by LOBs on their own and update those metrics to senior management
-o	Once the new solutions are place, initiate the decommission process collaborating with our LOB partners and OTS team
-o	Help our Business users to register their new solutions and retire their old solutions in IAHUB
+SLA Report:
 
+Finalize the Business Requirements Document and obtain Business sign-off.
+Collaborate with the Fraud Tech team to develop the Production API.
+Create the Alteryx workflow to extract data from UAT.
+Conduct analysis on future benefits, KPIs, and OKRs, quantifying their metrics.
+Identify the strategic solution, a Databricks migration aligned with the Fraud team's Q2 roadmap.
+Ensure alignment of the strategic solution with Fraud Remediation team goals and project requirements.
+Facilitate coordination between the Anti-Fraud product owner, Tech team, and Remediation team to evaluate strategic vs. tactical solutions.
+Establish timelines for implementing the strategic solution aligned with Fraud Remediation team objectives.
+Xceptor Migration:
+
+Coordinate the migration process among OTS, LOB partners, and CIB teams.
+Prioritize solutions needed from each LOB partner, communicating them to OTS/CIB teams, and lead the effort to complete them by Q2.
+Assist OTS/CIB teams in collecting updated BRDs, input/output file samples once solutions are prioritized.
+Track and monitor LOBs' independently built solutions, providing updates to senior management.
+Initiate decommissioning process with LOB partners and OTS team once new solutions are in place.
+Assist Business users in registering new solutions and retiring old ones in IAHUB.
 Teamwork & Leadership:
--	Fraud Prevention & Remediation Deep Dive:
-o	Partner with my Manger and participate in Fraud Remediation and Prevention deep dive in sessions
-o	Learn the Anti Fraud current business processes and different dynamics of various Fraud types (Eg: Wire transfer, ACH, Zelle, Check etc..)
-o	Contribute to creating value chains and business process models for certain Fraud types to support my Manager complete his overall automation solutioning process 
-o	Partner with other Unqork developers and help them gather business requirements 
-o	Explore the current and future process models 
-o	Brainstorm with Tech partners from other teams to understand to process from upstream and handshake between two applications
--	Training/bootcamp and Mentorship:
-o	Participate in Unqork bootcamp and learn the Unqork tool
-o	Complete the Unqork Associate certification considering that will create more opportunities for myself in Unqork space
-o	Build more robust Unqork applications this year leveraging my knowledge in Unqork
-o	Educate my team members who are interested in learning and doing projects in Unqork
-o	Participate in Python training and learn Python considering the upcoming projects that could potentially demand Python skills
-o	Familiarize myself with Data warehousing concepts and how it’s being used today in reporting world with the goal of mentoring my team members on these concepts
+
+Fraud Prevention & Remediation Deep Dive:
+
+Collaborate with my Manager in participating and contributing to Fraud Remediation and Prevention deep dive sessions.
+Gain understanding of Anti-Fraud business processes and dynamics of various Fraud types.
+Contribute to creating value chains and business process models for different Fraud types.
+Assist other Unqork developers in gathering business requirements and exploring process models.
+Collaborate with Tech partners to understand upstream processes and application interconnections.
+Training/Bootcamp and Mentorship:
+
+Participate in Unqork bootcamp to acquire proficiency in the Unqork tool.
+Obtain Unqork Associate certification to enhance opportunities within the Unqork space.
+Develop robust Unqork applications leveraging acquired knowledge.
+Educate interested team members in Unqork and provide mentorship.
+Participate in Python training to acquire skills for upcoming projects.
+Familiarize with Data warehousing concepts to mentor team members in reporting.
 Client/Customer/Stakeholder:
--	UW Pipeline”:
-o	Did the fit gap analysis and identified two solutions that can be folded into an existing Tableau dashboard
-o	The two new Jiras can be closed as the existing Jira can be used for the new enhancements
-o	Registered the existing Tableau project in IAHUB
-o	Helped them create a testing template to test the enhancements
-o	Coordinated between teams to build the change requests post Business user testing
 
+UW Pipeline:
 
--	
-
+Conduct fit-gap analysis and identify solutions to integrate into existing Tableau dashboard.
+Close identified Jiras as existing ones suffice for new enhancements.
+Register existing Tableau project in IAHUB.
+Assist in creating testing templates for enhancements.
+Coordinate inter-team efforts to implement change requests post-business user testing.
