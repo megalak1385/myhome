@@ -1,55 +1,36 @@
-Business Results:
-1)	SLA Report:
--	Finalized the Business Requirements Document and obtained Business sign-off.
--	Collaborated with the Fraud Tech team and communicated the required data points from Prod API.
--	Created the Alteryx workflow to extract data from UAT using UAT API.
--	Conduct analysis on future benefits, KPIs, and OKRs, quantifying their metrics.
--	Identify the strategic solution, a Databricks migration that is on the Fraud team’s roadmap for Q2.
--	Ensure alignment of the strategic solution with Fraud Remediation team goals and project requirements.
--	Facilitate coordination between the Anti-Fraud product owner, Tech team, and Remediation team to evaluate strategic vs. tactical solutions.
--	Establish timelines for implementing the strategic solution aligned with Fraud Remediation team objectives.
--	Amend the Business Requirement document with the new strategic solutions and then hand it off to the Tech team for development
+usiness Results:
 
-2)	Xceptor Migration:
--	Coordinate the migration process among OTS, LOB partners, and CIB teams.
--	Prioritize solutions needed from each LOB partner, communicating them to OTS/CIB teams, and lead the effort to complete them by Q2.
--	Handhold OTS/CIB teams in collecting updated BRDs, input/output file samples once solutions are prioritized.
--	Track and monitor LOB’s independently built solutions, providing updates to senior management.
--	Initiate decommissioning process with LOB partners and OTS team once new solutions are in place.
--	Assist Business users in registering new solutions and retiring old ones in IAHUB.
+SLA Report:
 
-3)	Training/Bootcamp and Mentorship:
--	Participate in Unqork bootcamp to acquire proficiency in the Unqork tool.
--	Obtain Unqork Associate certification to identify opportunities to build Unqork solutions in Banking Operations space.
--	Develop more robust Unqork applications for Banking Ops teams leveraging acquired knowledge.
--	Participate in Python training to acquire skills for potential future initiatives.
--	Learn data warehousing concepts (Snowflake, Databricks) to extract data from the warehouse and process it in Alteryx.
+Finalized the Business Requirements Document and obtained Business sign-off.
+Collaborated with the Fraud Tech team to communicate required data points from Prod API.
+Created the Alteryx workflow for data extraction from UAT using UAT API.
+Analyzed future benefits, KPIs, and OKRs, quantifying their metrics.
+Identified strategic solutions like Databricks migration aligned with Fraud team's roadmap.
+Ensured alignment of strategic solutions with Fraud Remediation team goals.
+Coordinated between Anti-Fraud product owner, Tech team, and Remediation team to evaluate solutions.
+Established timelines for implementing strategic solutions aligned with Fraud Remediation team objectives.
+Amended the Business Requirement document with new strategic solutions and handed it off to the Tech team for development.
+Xceptor Migration:
 
+Coordinated migration process among OTS, LOB partners, and CIB teams.
+Prioritized solutions needed from each LOB partner and communicated them to OTS/CIB teams.
+Assisted in collecting updated BRDs and input/output file samples.
+Tracked LOB's independently built solutions and provided updates to senior management.
+Initiated decommissioning process with LOB partners and OTS team.
+Assisted Business users in registering new solutions and retiring old ones in IAHUB.
+Training/Bootcamp and Mentorship:
+
+Participated in Unqork bootcamp and obtained Unqork Associate certification.
+Developed robust Unqork applications for Banking Ops teams.
+Participated in Python training to acquire skills for potential future initiatives.
+Learned data warehousing concepts to extract and process data.
 Teamwork & Leadership:
-Collaborate closely with my manager and team members, actively engage in learning from their projects, and work together towards successfully completing them.
-1)	Fraud Prevention & Remediation Deep Dive:
--	Collaborate with my Manager in participating and contributing to Fraud Remediation and Prevention deep dive sessions.
--	Gain understanding of Anti-Fraud business processes and dynamics of various Fraud types and remediation actions.
--	Contribute to creating value chains and business process models for certain Fraud types.
 
-2)	Collateral Email:
--	Learn about ongoing Unqork project from a team member, who is building it for Credit LOB.
--	Onboard myself onto this project as the new replacement of current developer.
--	Partner with my team member in gathering business requirements and exploring process models.
--	Collaborate with Tech partners to understand upstream processes and application interconnections.
-
-3)	Tactical Shift:
--	Learn about ongoing Alteryx project from a team member, who is building it for Credit LOB.
--	Onboard myself onto this project as the new replacement of current developer.
--	Partner with my team member in gathering business requirements and understand the existing Alteryx workflows.
--	Collaborate with Tech partners to understand manual processes and automation opportunities.
-
+Collaborated closely with manager and team members to successfully complete projects.
+Participated in Fraud Prevention & Remediation sessions and contributed to value chains and business process models.
+Onboarded onto ongoing Unqork and Alteryx projects, gathering requirements, and collaborating with Tech partners.
 Client/Customer/Stakeholder:
-1)	UW Pipeline:
--	Conducted fit-gap analysis with the working group last year and identified solutions to integrate into existing Tableau dashboard.
--	Closed new Jiras as they can be folded into existing ones.
--	Assist our business stakeholders in creating testing templates for enhancements.
--	Coordinate inter-team efforts to implement change requests post-business user testing.
--	Conduct the feasibility study for the new change requests from the UW team.
--	Prioritize the requirements based on the Business needs, technical efforts for the build.
--	Monitor and track the build the development process and deliver to Business stakeholders by end Q1.
+
+Conducted fit-gap analysis for UW Pipeline and assisted in creating testing templates.
+Prioritized requirements based on Business needs and monitored development process for timely delivery.
