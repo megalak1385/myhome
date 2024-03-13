@@ -1,36 +1,14 @@
-usiness Results:
 
-SLA Report:
+Subject: Update on Business Requirements Review and Timeline
 
-Finalized the Business Requirements Document and obtained Business sign-off.
-Collaborated with the Fraud Tech team to communicate required data points from Prod API.
-Created the Alteryx workflow for data extraction from UAT using UAT API.
-Analyzed future benefits, KPIs, and OKRs, quantifying their metrics.
-Identified strategic solutions like Databricks migration aligned with Fraud team's roadmap.
-Ensured alignment of strategic solutions with Fraud Remediation team goals.
-Coordinated between Anti-Fraud product owner, Tech team, and Remediation team to evaluate solutions.
-Established timelines for implementing strategic solutions aligned with Fraud Remediation team objectives.
-Amended the Business Requirement document with new strategic solutions and handed it off to the Tech team for development.
-Xceptor Migration:
+Dear Team,
 
-Coordinated migration process among OTS, LOB partners, and CIB teams.
-Prioritized solutions needed from each LOB partner and communicated them to OTS/CIB teams.
-Assisted in collecting updated BRDs and input/output file samples.
-Tracked LOB's independently built solutions and provided updates to senior management.
-Initiated decommissioning process with LOB partners and OTS team.
-Assisted Business users in registering new solutions and retiring old ones in IAHUB.
-Training/Bootcamp and Mentorship:
+I hope this email finds you well. I wanted to provide you with an update on our ongoing efforts to automate the end-to-end process and redefine certain business rules.
 
-Participated in Unqork bootcamp and obtained Unqork Associate certification.
-Developed robust Unqork applications for Banking Ops teams.
-Participated in Python training to acquire skills for potential future initiatives.
-Learned data warehousing concepts to extract and process data.
-Teamwork & Leadership:
+As we discussed, we've identified several tasks that are currently being handled manually, and our aim is to automate all calculations while refining these business rules within our existing workflow.
 
-Collaborated closely with manager and team members to successfully complete projects.
-Participated in Fraud Prevention & Remediation sessions and contributed to value chains and business process models.
-Onboarded onto ongoing Unqork and Alteryx projects, gathering requirements, and collaborating with Tech partners.
-Client/Customer/Stakeholder:
+To ensure alignment and secure business sign-off, I'll be reviewing the finalized business requirements with the team tomorrow. Our goal is to have the business sign-off by the end of this week, allowing us to commence with the build phase starting next week.
 
-Conducted fit-gap analysis for UW Pipeline and assisted in creating testing templates.
-Prioritized requirements based on Business needs and monitored development process for timely delivery.
+Based on our initial estimates, we anticipate the build phase to take approximately two to three weeks. Once completed, we'll proceed with UAT testing, with an expected delivery by mid-April.
+
+Please note that if there is a need to run the solution in production, it may require an additional month to complete the necessary governance processes and launch it into production.
