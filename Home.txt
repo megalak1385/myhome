@@ -8,5 +8,5 @@ New Process - Automation:
 
 Automation should fill columns N to R in the table below, eliminating all manual tasks.
 The Alteryx workflow must incorporate all business rules and calculate values accordingly.
-Inputs should be sourced collectively from the various sources listed in the Inputs Table in Section 2.
+Inputs should be sourced collectively from the various sources listed in the Inputs Table in Section 2
 Alteryx should update the same input file with additional values (Columns N to R, highlighted in yellow), saving it to their shared drive. No new files are necessary.
