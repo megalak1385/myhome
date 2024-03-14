@@ -1,11 +1,12 @@
 
-3.	Current Process - Manual:
--	The Margin team downloads the margin call report (applying cwm and 11d filters), daily trades and feeds them into their alteryx workflow. 
--	The alteryx workflow consumes those two reports and generates the below excel sheet with below details with no values on columns N to R. 
--	The team manually does the analysis referencing GCM and Connect screens, reviews the business rules, calculates the amounts, and updates the margin call amount and rationale
+Current Process - Manual:
 
-4.	New Process - Automation:
--	All manual tasks to fill columns N to R on the below table should be automated.
--	The Alteryx workflow should have all the business rules in place and calculate the values applying those business rules.
--	The inputs should be collectively sourced from different sources mentioned in section 2 inputs table.
--	As a result, alteryx should update the same input file with the additional values (Columns N to R that are highlighted below in yellow) and store it in their shared drive. No new files are required to be created here.
+The Margin team downloads the margin call report daily, applying CWM and 11D filters, as well as daily trades, and feeds them into their Alteryx workflow.
+The Alteryx workflow consumes these two reports and generates the following Excel sheet, leaving columns N to R empty.
+The team manually conducts analysis, referring to GCM and Connect screens, reviews business rules, calculates amounts, and updates the margin call amount and rationale.
+New Process - Automation:
+
+Automation should fill columns N to R in the table below, eliminating all manual tasks.
+The Alteryx workflow must incorporate all business rules and calculate values accordingly.
+Inputs should be sourced collectively from the various sources listed in the Inputs Table in Section 2.
+Alteryx should update the same input file with additional values (Columns N to R, highlighted in yellow), saving it to their shared drive. No new files are necessary.
