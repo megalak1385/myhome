@@ -1,14 +1,11 @@
 
-Subject: Update on Business Requirements Review and Timeline
+3.	Current Process - Manual:
+-	The Margin team downloads the margin call report (applying cwm and 11d filters), daily trades and feeds them into their alteryx workflow. 
+-	The alteryx workflow consumes those two reports and generates the below excel sheet with below details with no values on columns N to R. 
+-	The team manually does the analysis referencing GCM and Connect screens, reviews the business rules, calculates the amounts, and updates the margin call amount and rationale
 
-Dear Team,
-
-I hope this email finds you well. I wanted to provide you with an update on our ongoing efforts to automate the end-to-end process and redefine certain business rules.
-
-As we discussed, we've identified several tasks that are currently being handled manually, and our aim is to automate all calculations while refining these business rules within our existing workflow.
-
-To ensure alignment and secure business sign-off, I'll be reviewing the finalized business requirements with the team tomorrow. Our goal is to have the business sign-off by the end of this week, allowing us to commence with the build phase starting next week.
-
-Based on our initial estimates, we anticipate the build phase to take approximately two to three weeks. Once completed, we'll proceed with UAT testing, with an expected delivery by mid-April.
-
-Please note that if there is a need to run the solution in production, it may require an additional month to complete the necessary governance processes and launch it into production.
+4.	New Process - Automation:
+-	All manual tasks to fill columns N to R on the below table should be automated.
+-	The Alteryx workflow should have all the business rules in place and calculate the values applying those business rules.
+-	The inputs should be collectively sourced from different sources mentioned in section 2 inputs table.
+-	As a result, alteryx should update the same input file with the additional values (Columns N to R that are highlighted below in yellow) and store it in their shared drive. No new files are required to be created here.
