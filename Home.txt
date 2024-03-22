@@ -10,3 +10,7 @@ Automation should fill columns N to R in the table below, eliminating all manual
 The Alteryx workflow must incorporate all business rules and calculate values accordingly.
 Inputs should be sourced collectively from the various sources listed in the Inputs Table in Section 2
 Alteryx should update the same input file with additional values (Columns N to R, highlighted in yellow), saving it to their shared drive. No new files are necessary.
+
+=IF(AND(LEN(A1)>0, LEN(B1)>0), "Correct A1 and B1", 
+    IF(AND(LEN(A1)=0, LEN(B1)>0), "Correct B1", 
+        IF(AND(LEN(B1)=0, LEN(A1)>0), "Correct A1", "")))
