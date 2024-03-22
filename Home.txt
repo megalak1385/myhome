@@ -1,79 +1,52 @@
+
+Certainly! Here's a revised version of your annual review summary, with some enhancements for clarity and professionalism:
+
 Business Results:
-1)	Fraud - SLA Remediation Report:
--	Obtained Business sign-off for the Business Requirement document.
--	Created Fraud Remediation SLA Alteryx workflow to extract data and created the dashboard,  in order to create visibility into their BAU process  
--	Conducted analysis on future benefits, KPIs, and OKRs, quantifying their metrics.
 
-2)	Mortgage - UW Pipeline:
--	Prioritize the requirements according to business needs, technical feasibility for implementation which results in reducing Time to Market – We reduced time to build 
--	Closed two projects that would have resulted in waste of efforts and repurpose. Prevented time & capacity being used for two unnecessary projects 
--	Assisted our business stakeholders in creating testing templates for enhancements.
--	Monitor and track the development progress, ensuring delivery to Business stakeholders by the end of Q1/Q2.
+Fraud - SLA Remediation Report:
 
-3)	Tactical Shift:
--	Lead developer incorporating new functionality, enhancing previous functionality, doing testing in order to create a robust technical solution to be completed by Q2 (leveraged by Margin team, saving 2 hours avg per day)
--	Created Business Requirements Document
-o	Ensure that requirements are documented for future enhancements 
-o	Capture all possible scenarios, test cases and review them with Business
-o	Reduce time to market
+Successfully obtained Business sign-off for the Business Requirement document.
+Developed and implemented a comprehensive Fraud Remediation SLA Alteryx workflow, providing visibility into BAU processes.
+Conducted thorough analysis on future benefits, KPIs, and OKRs, effectively quantifying their metrics.
+Mortgage - UW Pipeline:
 
-4)	Credit – Letters of Credit:
--	Onboarded myself into this project
--	Helping the developer fix the bugs, do testing and push it into UAT and production env
--	Take the ownership of this project eventually and build the future enhancements if required.
+Efficiently prioritized requirements based on business needs, enhancing Time to Market by reducing development timelines.
+Proactively closed redundant projects, preventing unnecessary resource allocation and maximizing efficiency.
+Provided crucial support to business stakeholders in creating testing templates for enhancements and monitored development progress for timely delivery.
+Tactical Shift:
+
+Demonstrated leadership by spearheading the development of new functionalities and enhancements, optimizing processes for the Margin team.
+Meticulously documented Business Requirements to ensure clarity and alignment with future enhancements, significantly reducing time to market.
+Credit – Letters of Credit:
+
+Successfully onboarded into the project, actively contributing to bug fixes, testing, and deployment efforts.
+Positioned to take ownership of the project and drive future enhancements as required, ensuring continued success and reliability.
 Teamwork & Leadership:
-Collaborate closely with my manager and team members, actively engage in learning from their projects, and work together towards successfully completing them.
-1)	Helping support stakeholder management
-1)	Mortgage:
-i.	Understanding their BOW
-ii.	Tracking inventory of projects that are pending, inflight and delivery for BOSS team, OTS, Citizen developer community
-2)	Fraud: 
-i.	Understanding their BOW and collaborating where necessary
-ii.	Tracking inventory of projects that are pending, inflight and delivery for BOSS team, OTS, Citizen developer community
-iii.	Fraud SLA Remediation Report:
-1.	Ensure alignment of the strategic solution with Fraud Remediation team goals and project requirements.
-2.	Facilitate coordination between the Anti-Fraud product owner, Tech team, and Remediation team to evaluate strategic vs. tactical solutions.
-3.	Establish timelines for implementing the strategic solution aligned with Fraud Remediation team objectives.
-4.	Complete the final version of Business Requirement document with the new strategic solutions and then hand it off to the Tech team for development.
-3)	Trust and Estates: 
-i.	Tracking Xceptor migration statuses for all their projects that are in progress, completed and ready for decommissioning
-ii.	Work with offshore partners and guide them on decommissioning offshore projects
-4)	Monthly head of transformation updates: 
-i.	Support by providing the metrics, IAHUB pull with items requiring recertifications, Xceptor updates.
 
+Collaborated seamlessly with team members and managers, actively engaging in knowledge-sharing and fostering a culture of collaboration and success.
+Demonstrated exceptional stakeholder management skills across various projects, ensuring alignment with business objectives and priorities.
 Client/Customer/Stakeholder:
-1)	Fraud - SLA Remediation Report:
--	Collaborated with the Fraud Tech team and communicated the required data points from Prod API.
--	Analyse the Fraud Remediation data points and do the data mapping for their Tableau Dashboard
--	Created sample files with expected fields which can be leveraged by Fraud Team to communicate their requirements to Tech team
--	Capture the new requirements and create a new version of BRD which can be leveraged by Fraud Business & Tech teams
 
-2)	Expanding skillsets for Stakeholder management:
--	Participate in Unqork bootcamp to acquire proficiency in the Unqork tool.
--	Obtain Unqork Associate certification to identify opportunities to build Unqork solutions in Banking Operations space.
--	Develop more robust Unqork applications for Banking Ops teams leveraging acquired knowledge.
--	Participate in Python training to acquire skills for potential future initiatives.
--	Learn data warehousing concepts (Snowflake, Databricks, Data lakes) to extract data from the various warehouse applications.
+Fraud - SLA Remediation Report:
 
-3)	UW Pipeline:
--	Coordinated inter-team efforts to implement change requests post-business user testing.
--	Conduct the feasibility study for the new change requests raised by UW team post their testing.
--	Finalize the new scope for change requests that was agreed by the development and Business
--	Track the development status of requirements and provide the updates to the stakeholders.
+Effectively liaised with the Fraud Tech team, facilitating seamless communication and alignment on data requirements.
+Played a pivotal role in analyzing Fraud Remediation data points, providing critical insights for dashboard development and process optimization.
+Proactively captured and documented new requirements, ensuring continuous improvement and alignment with business objectives.
+Expanding Skillsets for Stakeholder Management:
 
-4)	Xceptor Migration:
--	Coordinate the migration process among OTS, LOB partners, and CIB teams.
--	Prioritize solutions needed from each LOB partner, communicating them to OTS/CIB teams, and lead the effort to complete them by Q2.
--	Handhold OTS/CIB teams in collecting updated BRDs, input/output file samples once solutions are prioritized.
--	Track and monitor LOB’s independently built solutions, providing updates to senior management.
--	Initiate decommissioning process with LOB partners and OTS team once new solutions are in place.
--	Assist Business users in registering new solutions and retiring old ones in IAHUB.
--	Maintain the Confluence page with any new documents that I added and any new confirmations that they decommissioned
+Actively pursued professional development opportunities, including Unqork bootcamp and Python training, to enhance skill sets and contribute effectively to project success.
+Demonstrated a commitment to excellence by expanding knowledge in data warehousing concepts, enabling informed decision-making and strategic planning.
+UW Pipeline:
 
-2)	Credit - Collateral Email:
--	Learn about ongoing Unqork project from a team member, who is building it for Credit LOB.
--	Onboard myself onto this project as the new replacement of current developer.
--	Partner with my team member in gathering business requirements and exploring process models.
--	Collaborate with Tech partners to understand upstream processes and application interconnections.
+Led coordination efforts for implementing change requests, ensuring seamless integration and minimal disruption to business operations.
+Conducted comprehensive feasibility studies for new change requests, providing stakeholders with valuable insights for informed decision-making.
+Maintained rigorous oversight of development status and scope changes, ensuring alignment with project objectives and stakeholder expectations.
+Xceptor Migration:
 
+Orchestrated the migration process across multiple teams, ensuring smooth transition and minimal disruption to business operations.
+Provided strategic guidance and support for decommissioning legacy systems, streamlining processes and enhancing operational efficiency.
+Proactively facilitated knowledge sharing and documentation, ensuring seamless knowledge transfer and continuity of operations.
+Credit - Collateral Email:
 
+Successfully onboarded onto the Credit project, actively contributing to requirements gathering and process exploration.
+Collaborated effectively with cross-functional teams to understand complex processes and dependencies, ensuring successful project outcomes.
