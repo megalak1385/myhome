@@ -1,49 +1,16 @@
-Business Results:
-
-Fraud - SLA Remediation Report:
-
-Secured Business sign-off for the Business Requirement document.
-Implemented a comprehensive Fraud Remediation SLA Alteryx workflow, enhancing visibility into BAU processes.
-Conducted detailed analysis on future benefits, KPIs, and OKRs, effectively quantifying their metrics.
-Mortgage - UW Pipeline:
-
-Prioritized requirements based on business needs, reducing Time to Market and project timelines.
-Closed redundant projects, optimizing resource allocation and maximizing efficiency.
-Assisted in creating testing templates for enhancements and monitored development progress for timely delivery.
-Tactical Shift:
-
-Led development efforts for new functionalities, streamlining processes for the Margin team.
-Documented Business Requirements to ensure clarity and alignment with future enhancements, reducing time to market.
-Credit – Letters of Credit:
-
-Onboarded into the project, actively contributing to bug fixes, testing, and deployment.
-Positioned to drive future enhancements, ensuring continued success and reliability.
-Teamwork & Leadership:
-
-Collaborated effectively with team members and managers, fostering a culture of collaboration and success.
-Demonstrated exceptional stakeholder management skills, ensuring alignment with business objectives.
-Client/Customer/Stakeholder:
-
-Fraud - SLA Remediation Report:
-
-Facilitated communication with the Fraud Tech team, ensuring alignment on data requirements.
-Analyzed Fraud Remediation data points, providing critical insights for dashboard development and process optimization.
-Documented new requirements, ensuring continuous improvement and alignment with business objectives.
-Expanding Skillsets for Stakeholder Management:
-
-Pursued professional development opportunities, enhancing skill sets for project success.
-Expanded knowledge in data warehousing concepts, enabling strategic planning.
-UW Pipeline:
-
-Led coordination efforts for implementing change requests, ensuring minimal disruption to business operations.
-Conducted feasibility studies for new change requests, providing valuable insights for decision-making.
-Maintained oversight of development status and scope changes, ensuring alignment with project objectives.
-Xceptor Migration:
-
-Orchestrated migration process, ensuring smooth transition and operational efficiency.
-Provided guidance for decommissioning legacy systems, streamlining processes.
-Facilitated knowledge sharing, ensuring continuity of operations.
-Credit - Collateral Email:
-
-Contributed to requirements gathering and process exploration, ensuring project success.
-Collaborated effectively with cross-functional teams, understanding complex processes and dependencies.
+1.	Current Process:
+The Fraud Remediation team currently receives an automated end-of-day and monthly report in their email box from the Fraud Connect team, but it contains only high-level ticket details. This report lacks the necessary granularity, leaving the Fraud Remediation team and its senior management without visibility into activities at the detailed level of SLA time. To effectively identify delays caused by specific activities, there is a critical need for access to activity-level information.
+The current report has at ticket level has the below fields.
+2) New requirements:
+a) Fraud remediation team wants to view both ticket and activity/task level information on the Tableau dashboard. 
+  	This is a strategic solution: Display all ticket and activity/task level information containing  the details of cycle times and SLA breaches at activity level which will allow them to have a better visibility on 
+    	Fraud ticket statuses & activities
+    	The cycle time of each activity
+    	Tickets approaching & exceeding SLA deadlines
+b) Refer the below grids that has all the fields at ticket and activity level. These fields need to be added to the existing Fraud Tableau dashboard.
+c) This grid also has the data mapping between the expected fields the fields that are available in the database that it can be mapped to.
+3)SLA Definition:
+    The SLA at task level has been shared with Fraud Tech Team (attached below) by the Business. This needs to be added into the backend data as the current data do not have the SLA information 
+    and this should be the benchmark reference value to calculate the SLA breaches.
+4)Current and Future state process models:
+	The current and future process state models are attached below for future reference.
