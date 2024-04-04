@@ -1,16 +1,25 @@
-1.	Current Process:
-The Fraud Remediation team currently receives an automated end-of-day and monthly report in their email box from the Fraud Connect team, but it contains only high-level ticket details. This report lacks the necessary granularity, leaving the Fraud Remediation team and its senior management without visibility into activities at the detailed level of SLA time. To effectively identify delays caused by specific activities, there is a critical need for access to activity-level information.
-The current report has at ticket level has the below fields.
-2) New requirements:
-a) Fraud remediation team wants to view both ticket and activity/task level information on the Tableau dashboard. 
-  	This is a strategic solution: Display all ticket and activity/task level information containing  the details of cycle times and SLA breaches at activity level which will allow them to have a better visibility on 
-    	Fraud ticket statuses & activities
-    	The cycle time of each activity
-    	Tickets approaching & exceeding SLA deadlines
-b) Refer the below grids that has all the fields at ticket and activity level. These fields need to be added to the existing Fraud Tableau dashboard.
-c) This grid also has the data mapping between the expected fields the fields that are available in the database that it can be mapped to.
-3)SLA Definition:
-    The SLA at task level has been shared with Fraud Tech Team (attached below) by the Business. This needs to be added into the backend data as the current data do not have the SLA information 
-    and this should be the benchmark reference value to calculate the SLA breaches.
-4)Current and Future state process models:
-	The current and future process state models are attached below for future reference.
+Current Process:
+
+The Fraud Remediation team currently relies on receiving automated end-of-day and monthly reports from the Fraud Connect team via email. However, these reports only provide high-level ticket details, lacking the necessary granularity. Consequently, the Fraud Remediation team and its senior management lack visibility into activities at the detailed level of SLA time. There is an urgent need for access to activity-level information to effectively identify delays caused by specific activities.
+
+The current report includes the following fields at the ticket level:
+
+New Requirements:
+
+a) The Fraud Remediation team requires visibility into both ticket and activity/task level information on the Tableau dashboard. This strategic solution aims to display all ticket and activity/task level information containing details of cycle times and SLA breaches at the activity level. This enhanced visibility will allow the team to:
+
+Monitor fraud ticket statuses and associated activities.
+Track the cycle time of each activity.
+Identify tickets approaching and exceeding SLA deadlines.
+b) Please refer to the grids below, containing all the required fields at both ticket and activity levels. These fields must be integrated into the existing Fraud Tableau dashboard.
+
+c) The grid also includes data mapping between the expected fields and the available fields in the database for seamless integration.
+
+SLA Definition:
+
+The SLA at the task level has been provided to the Fraud Tech Team by the Business (attached below). This SLA information needs to be incorporated into the backend data as the current dataset lacks SLA information. This will serve as the benchmark reference value for calculating SLA breaches accurately.
+
+Current and Future State Process Models:
+
+Attached below are the current and future state process models for reference in planning and implementation.
+
