@@ -1,25 +1,7 @@
-Current Process:
-
-The Fraud Remediation team currently relies on receiving automated end-of-day and monthly reports from the Fraud Connect team via email. However, these reports only provide high-level ticket details, lacking the necessary granularity. Consequently, the Fraud Remediation team and its senior management lack visibility into activities at the detailed level of SLA time. There is an urgent need for access to activity-level information to effectively identify delays caused by specific activities.
-
-The current report includes the following fields at the ticket level:
-
-New Requirements:
-
-a) The Fraud Remediation team requires visibility into both ticket and activity/task level information on the Tableau dashboard. This strategic solution aims to display all ticket and activity/task level information containing details of cycle times and SLA breaches at the activity level. This enhanced visibility will allow the team to:
-
-Monitor fraud ticket statuses and associated activities.
-Track the cycle time of each activity.
-Identify tickets approaching and exceeding SLA deadlines.
-b) Please refer to the grids below, containing all the required fields at both ticket and activity levels. These fields must be integrated into the existing Fraud Tableau dashboard.
-
-c) The grid also includes data mapping between the expected fields and the available fields in the database for seamless integration.
-
-SLA Definition:
-
-The SLA at the task level has been provided to the Fraud Tech Team by the Business (attached below). This SLA information needs to be incorporated into the backend data as the current dataset lacks SLA information. This will serve as the benchmark reference value for calculating SLA breaches accurately.
-
-Current and Future State Process Models:
-
-Attached below are the current and future state process models for reference in planning and implementation.
-
+Hello Team,
+I am sending this to place a request to complete one of the open Unqork dashboard tickets in the production environment. 
+AS this project is in testing phase in production and due to multiple unexpected status changes, the Unqork workflow has moved this ticket to the end node and not allowing the user to edit anymore through the UI. So we are enforced to complete this ticket from the backend database. 
+Here is the ticket, module and workflow details. Please let us know if you need any more information from me. If you need Business approval, we can provide that as well.
+Request id: WMLC-100011
+Module id: 65cd10d8f26ea6f904a29791
+Workflow: https://jpm-wm.unqork.io/auth/saml?idp=JPMC-WM-PROD&destination=%23/workflow/e2eletterofcredit20230207/e2elcengagementform
