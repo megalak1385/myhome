@@ -1,7 +1,8 @@
-Hello Team,
-I am sending this to place a request to complete one of the open Unqork dashboard tickets in the production environment. 
-AS this project is in testing phase in production and due to multiple unexpected status changes, the Unqork workflow has moved this ticket to the end node and not allowing the user to edit anymore through the UI. So we are enforced to complete this ticket from the backend database. 
-Here is the ticket, module and workflow details. Please let us know if you need any more information from me. If you need Business approval, we can provide that as well.
-Request id: WMLC-100011
-Module id: 65cd10d8f26ea6f904a29791
-Workflow: https://jpm-wm.unqork.io/auth/saml?idp=JPMC-WM-PROD&destination=%23/workflow/e2eletterofcredit20230207/e2elcengagementform
+Due to unforeseen status changes, the Unqork workflow has navigated this ticket to its final node, rendering it inaccessible for further edits via the UI. Consequently, we are compelled to finalize this ticket through backend database operations.
+
+Below are the pertinent details regarding the ticket, module, and workflow:
+
+Request ID: WMLC-100011
+Module ID: 65cd10d8f26ea6f904a29791
+Workflow Link: [Insert Workflow Link]
+Please review the information provided and do not hesitate to reach out if additional details are required. Should business approval be necessary, we are fully prepared to facilitate that process.
