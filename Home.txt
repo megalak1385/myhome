@@ -1,4 +1,7 @@
-We have come across one more issue in production yesterday. 
-As I showed during our meeting, the currency dropdown which pulls the dropdown options from the Data Collection is missing “USD” option which impacts our Business as they are not able to select USD currency. But it’s showing all the options including USD in UAT and staging environments.
-As you suggested, I have checked the data collection in prod and tried to push the data collection alone from UAT/Staging. But looks the prod, UAT & staging are using the same data collection(same version) and it was updated on the same date (in Jan) and there was no change made after that.
-I have even looked at the older version of Plugins and it’s calling the same data collection. So I am wondering what is causing the issue in production. We really appreciate your assistance on this.
+I hope you're doing well. I'm reaching out about a pressing issue we encountered in production yesterday.
+
+The currency dropdown, pulling options from Data Collection, lacks the "USD" option, affecting our business operations. Surprisingly, this option is available in UAT and staging environments.
+
+Despite checking data collections and plugin versions, no discrepancies were found between environments.
+
+Your prompt assistance in resolving this matter would be greatly appreciated.
