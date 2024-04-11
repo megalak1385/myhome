@@ -1,8 +1,4 @@
-Due to unforeseen status changes, the Unqork workflow has navigated this ticket to its final node, rendering it inaccessible for further edits via the UI. Consequently, we are compelled to finalize this ticket through backend database operations.
-
-Below are the pertinent details regarding the ticket, module, and workflow:
-
-Request ID: WMLC-100011
-Module ID: 65cd10d8f26ea6f904a29791
-Workflow Link: [Insert Workflow Link]
-Please review the information provided and do not hesitate to reach out if additional details are required. Should business approval be necessary, we are fully prepared to facilitate that process.
+We have come across one more issue in production yesterday. 
+As I showed during our meeting, the currency dropdown which pulls the dropdown options from the Data Collection is missing “USD” option which impacts our Business as they are not able to select USD currency. But it’s showing all the options including USD in UAT and staging environments.
+As you suggested, I have checked the data collection in prod and tried to push the data collection alone from UAT/Staging. But looks the prod, UAT & staging are using the same data collection(same version) and it was updated on the same date (in Jan) and there was no change made after that.
+I have even looked at the older version of Plugins and it’s calling the same data collection. So I am wondering what is causing the issue in production. We really appreciate your assistance on this.
