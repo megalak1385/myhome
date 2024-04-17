@@ -1,5 +1,1 @@
-During our recent meeting, I demonstrated that the currency dropdown, which dynamically fetches options from the Data Collection, is missing the "USD" option. This deficiency has a significant impact on our business operations, as users are unable to select USD as their currency. Notably, all options, including USD, are present in both UAT and staging environments.
-
-Following your suggestion, I meticulously investigated the data collection in the production environment and attempted to synchronize it with the versions from UAT and staging. Surprisingly, the data collection across production, UAT, and staging environments appears to be identical, with no discernible differences in versions or updates since January.
-
-Furthermore, upon inspecting older versions of plugins, I confirmed that they are also referencing the same data collection.
+I am scheduling a quick 15 mins check in for today, tomorrow and Friday to discuss the test status and results. If you are comfortable and done with the testing today or tomorrow, we can cancel the Friday’s one.
