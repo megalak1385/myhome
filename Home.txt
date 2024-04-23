@@ -1,3 +1,11 @@
 We have received a request from OTS team to collect the BRD for the below Xceptor solutions so that they pick up these items next and begin with their requirement analysis. I was able to find the BRDs for most of these items(except for two) from our confluence page where we have proactively collected and archived all the BRDs for future implementation. 
 If you could provide us the BRDs for the two items that I don’t have in our repository, it would be great. I can add them to our confluence page and share them with OTS team. 
 Also, please check the BRDs that I have attached here and let me know if anything has been changed in the interim. We can update them and share the updated version with OTS. 
+
+We have recently received a request from the OTS team to gather the Business Requirements Documents (BRDs) for the following Xceptor solutions. The OTS team intends to proceed with their requirement analysis upon receipt of these documents.
+
+After a thorough search on our Confluence page, where we have diligently collected and archived all relevant BRDs for future implementations, I have successfully located the BRDs for most of the listed items. However, there are two items for which I could not find the corresponding BRDs in our repository.
+
+Would it be possible for you to provide the BRDs for these two items? Once received, I will promptly add them to our Confluence page and share them with the OTS team.
+
+Furthermore, I kindly request you to review the attached BRDs that I have included with this email. Please verify if any modifications have been made since their last update. If there are any changes, we will ensure to update them accordingly and share the revised versions with the OTS team.
