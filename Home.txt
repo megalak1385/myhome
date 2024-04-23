@@ -9,3 +9,6 @@ After a thorough search on our Confluence page, where we have diligently collect
 Would it be possible for you to provide the BRDs for these two items? Once received, I will promptly add them to our Confluence page and share them with the OTS team.
 
 Furthermore, I kindly request you to review the attached BRDs that I have included with this email. Please verify if any modifications have been made since their last update. If there are any changes, we will ensure to update them accordingly and share the revised versions with the OTS team.
+
+OTS team expects an ETA for all the items for which the LOB is building their own solution without OTS assistance. We have this item from Deposits. 
+Would you be able to provide us the anticipated ETA for this solution?
