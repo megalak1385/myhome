@@ -1,8 +1,16 @@
-a.	The results at the end should be at arrangement level not at transactions level. 
-b.	An arrangement may contain one or more accounts and an account may contain one or more transactions. All the transactions should be validated individually for tactical benefit.
-c.	The business rules need to be applied at transaction level which could result a combination of eligible and ineligible transactions. In that case, the arrangement becomes eligible as long as it has one eligible transaction as part of it. The ineligible transactions (account details at high level) can be added into the comment column.
-d.	After applying the rules for all accounts and transactions, the results and conclusions need to be consolidated and summarized at arrangement level.
-e.	Arrangements having multiple eligible buy & Sell transactions need to summed together and the total market value of those should be considered for Market value calculation
-f.	When considering the sold position value for tactical benefit, the transactions within that account should cover 100% of the buy amount. It’s all or nothing but no partial cure at account level. If it only partially cures, it becomes ineligible for tactical benefit(the whole account).
-g.	If account 1 has more than what’s needed and account 2 has insufficient amount to cover 100% of what’s needed, account 2 cannot borrow the extra money from account 1. All rules must be applied within the account to receive the tactical benefit.
-h.	 But at the end, all tactical amounts from all the accounts can be added together to cure the final margin call amount. This can be cured either fully or partially based on the value of tactical amount. The margin will be generated for this amount only.
+
+a. Ensure that results are aggregated at the arrangement level rather than the transaction level.
+
+b. An arrangement may comprise multiple accounts, and each account may contain multiple transactions. All transactions must undergo individual validation for tactical benefit.
+
+c. Business rules must be applied at the transaction level, potentially resulting in a mix of eligible and ineligible transactions. An arrangement becomes eligible if it contains at least one eligible transaction. Any ineligible transactions should be noted in the comment column.
+
+d. Following rule application at the transaction level, results and conclusions should be consolidated and summarized at the arrangement level.
+
+e. For arrangements with multiple eligible buy and sell transactions, the total market value of these transactions should be aggregated for market value calculation.
+
+f. When assessing the sold position value for tactical benefit, transactions within an account must cover 100% of the buy amount. Partial curing at the account level is not permitted; if partial curing occurs, the entire account becomes ineligible for tactical benefit.
+
+g. If Account 1 contains excess funds while Account 2 lacks sufficient funds to cover 100% of the required amount, Account 2 cannot borrow from Account 1. All rules must be enforced within each account to qualify for tactical benefit.
+
+h. However, the total tactical amounts from all accounts may be combined to offset the final margin call amount. This offset may be either full or partial, depending on the cumulative tactical amount. The margin will be generated based on this amount alone.
