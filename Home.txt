@@ -1,14 +1,8 @@
-We have received a request from OTS team to collect the BRD for the below Xceptor solutions so that they pick up these items next and begin with their requirement analysis. I was able to find the BRDs for most of these items(except for two) from our confluence page where we have proactively collected and archived all the BRDs for future implementation. 
-If you could provide us the BRDs for the two items that I don’t have in our repository, it would be great. I can add them to our confluence page and share them with OTS team. 
-Also, please check the BRDs that I have attached here and let me know if anything has been changed in the interim. We can update them and share the updated version with OTS. 
-
-We have recently received a request from the OTS team to gather the Business Requirements Documents (BRDs) for the following Xceptor solutions. The OTS team intends to proceed with their requirement analysis upon receipt of these documents.
-
-After a thorough search on our Confluence page, where we have diligently collected and archived all relevant BRDs for future implementations, I have successfully located the BRDs for most of the listed items. However, there are two items for which I could not find the corresponding BRDs in our repository.
-
-Would it be possible for you to provide the BRDs for these two items? Once received, I will promptly add them to our Confluence page and share them with the OTS team.
-
-Furthermore, I kindly request you to review the attached BRDs that I have included with this email. Please verify if any modifications have been made since their last update. If there are any changes, we will ensure to update them accordingly and share the revised versions with the OTS team.
-
-OTS team expects an ETA for all the items for which the LOB is building their own solution without OTS assistance. We have this item from Deposits. 
-Would you be able to provide us the anticipated ETA for this solution?
+a.	The results at the end should be at arrangement level not at transactions level. 
+b.	An arrangement may contain one or more accounts and an account may contain one or more transactions. All the transactions should be validated individually for tactical benefit.
+c.	The business rules need to be applied at transaction level which could result a combination of eligible and ineligible transactions. In that case, the arrangement becomes eligible as long as it has one eligible transaction as part of it. The ineligible transactions (account details at high level) can be added into the comment column.
+d.	After applying the rules for all accounts and transactions, the results and conclusions need to be consolidated and summarized at arrangement level.
+e.	Arrangements having multiple eligible buy & Sell transactions need to summed together and the total market value of those should be considered for Market value calculation
+f.	When considering the sold position value for tactical benefit, the transactions within that account should cover 100% of the buy amount. It’s all or nothing but no partial cure at account level. If it only partially cures, it becomes ineligible for tactical benefit(the whole account).
+g.	If account 1 has more than what’s needed and account 2 has insufficient amount to cover 100% of what’s needed, account 2 cannot borrow the extra money from account 1. All rules must be applied within the account to receive the tactical benefit.
+h.	 But at the end, all tactical amounts from all the accounts can be added together to cure the final margin call amount. This can be cured either fully or partially based on the value of tactical amount. The margin will be generated for this amount only.
