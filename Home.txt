@@ -1,3 +1,1 @@
-I've incorporated the new fields and calculations we discussed last week into the BRD. Additionally, I've provided examples for clarity in the New Money rule (Business rules section, line item 7) and added item 8 – additional rules based on our previous discussions.
-
-Please review all sections and let me know if any changes are needed. If everything appears satisfactory, your sign-off would be appreciated. I will then proceed to eliminate the Snowflake data mapping so that I can collaborate with Susan directly.
+Avoid duplication of effort: The two requirements demanded two Tableau dashboards. Boss team has done the fit gap analysis and identified that they can be folded into the existing dashboard by adding a few enhancements. This saves the team from building two other Tableau dashboards. Time line to build a Tableau dashboard: 4 to 5 months. Incorporating these two requirements with existing dashboard saves build time of 10 months in total.
