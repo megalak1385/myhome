@@ -1,2 +1,3 @@
-I have updated the BRD with the new fields & calculations that we discussed last week. Also added some examples to New Money rule (Business rules section line item 7) for more clarity. Also added item 8 – additional rules to consider based on our previous discussions.
-Kindly review all the sections and let me know if any change is required anywhere. If everything looks good, we appreciate your sign off (eliminating Snowflake data mapping that I can work with Susan).
+I've incorporated the new fields and calculations we discussed last week into the BRD. Additionally, I've provided examples for clarity in the New Money rule (Business rules section, line item 7) and added item 8 – additional rules based on our previous discussions.
+
+Please review all sections and let me know if any changes are needed. If everything appears satisfactory, your sign-off would be appreciated. I will then proceed to eliminate the Snowflake data mapping so that I can collaborate with Susan directly.
