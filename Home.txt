@@ -12,3 +12,17 @@
   2.	For some case types, we can reduce the turn around/resolution time (specific Fraud types) that do not really require many days (Quick hits)
   1.	Eg: Id theft and some scam cases and lost/stolen cases: This type typically has 14 days SLA. But if you are able to call a client and do all the required steps, it can be closed on the same/next day
 Note: Given that you are able to coordinate with Banker/Client service team and reach out to client and have  all the information from the client upfront (UHNW clients can't be directly reached by Fraud team, it has to be coordinated by Client Service team)
+
+
+
+Background
+
+Current State Metrics
+
+Future State Metrics as a Result of the Improved Data
+
+Current State - #s - not defined
+
+future state to be defined but has goal
+
+quick hits
