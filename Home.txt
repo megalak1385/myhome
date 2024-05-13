@@ -60,6 +60,7 @@ Future State Metrics as a Result of the Improved Data:
 Goals include reducing turnaround time and manual processes. Aim to lower overall turnaround time below 30 days and past due percentage to 10%.
 Improving timestamp accuracy and reducing manual follow-ups via emails is a priority.
 Quick Hits:
+Quick hits refer to areas such as identity theft, scams, and lost/stolen cases, which can be swiftly resolved to reduce turnaround or resolution time.
 This report helps prioritize tickets with similar issues, enabling efficient resolution.
 Identifying discrepancies in the Global Case report aids in accurate prioritization.
 Targeting below 30 days for SLA, 10% past due rate, and reducing manual processes while improving timestamps are key objectives.
