@@ -47,3 +47,20 @@ Goals:
 •Reduce manual processes
 •Improve the timestamp
 •The report will help improve the process and reduce the cycle time
+
+
+Background:
+Provides context about the variability in SLA breach/past due percentages and the recent trends.
+Emphasizes the ongoing monitoring of KPIs and OKRs, although these metrics fluctuate monthly.
+Current State Metrics:
+Last month's past due percentage was 12.5%, with 631 total tickets and 79 past dues. December had a 17% past due rate.
+Monthly variations in SLA breach/past due percentages are observed.
+Routine checks on KPIs and OKRs reveal fluctuating performance.
+Future State Metrics as a Result of the Improved Data:
+Goals include reducing turnaround time and manual processes. Aim to lower overall turnaround time below 30 days and past due percentage to 10%.
+Improving timestamp accuracy and reducing manual follow-ups via emails is a priority.
+Quick Hits:
+This report helps prioritize tickets with similar issues, enabling efficient resolution.
+Identifying discrepancies in the Global Case report aids in accurate prioritization.
+Targeting below 30 days for SLA, 10% past due rate, and reducing manual processes while improving timestamps are key objectives.
+The report is expected to enhance processes and decrease cycle time.
