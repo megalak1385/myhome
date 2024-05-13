@@ -1,1 +1,14 @@
-To avoid duplication of effort, the two requirements initially called for two separate Tableau dashboards. However, after conducting a fit gap analysis, the Boss team determined that they could integrate these requirements into the existing dashboard with a few enhancements. This decision effectively eliminates the need to build two additional Tableau dashboards. The typical timeline for building a Tableau dashboard is 4 to 5 months. By incorporating these two requirements into the existing dashboard, we save a total of 10 months in build time.
+
+1.	Risk Management:
+  1.	Ticket level: More visibility helps reduce the population of past due
+  1.	Today's overall ticket count = 699 (per year), out of this 120 are past due. If we can close at least 30 out of 120, its's a big win (17%). The definite target number % was not shared yet.
+  2.	Identify the things that are almost past due and implement risk management strategies for x amount to not be past due
+  3.	The Once past dues are identified in advance, they reach out to client and bankers have them close the tickets.  The more realistic and refined numbers were not given as it needs some research and analysis from their end.
+  2.	Task/Activity level: More visibility at task/activity level helps them identify the tasks are causing delays or tickets stuck at specific stages, aiding faster resolution through strategic prioritization.
+  1.	When all steps for a specific ticket are completed, it becomes eligible for escalation to the team, prompting a request for an explanation as to why the ticket has not been closed yet.
+  2.	When some steps for a specific ticket are completed, it becomes eligible for escalation to the team, prompting a request for an explanation as to why the remaining steps have not been closed yet.
+2.	Turn around/Avg time:
+  1.	Avg time of ticket is 43.8 days today considering the entire inventory (entire population). This can be reduced using this report.
+  2.	For some case types, we can reduce the turn around/resolution time (specific Fraud types) that do not really require many days (Quick hits)
+  1.	Eg: Id theft and some scam cases and lost/stolen cases: This type typically has 14 days SLA. But if you are able to call a client and do all the required steps, it can be closed on the same/next day
+Note: Given that you are able to coordinate with Banker/Client service team and reach out to client and have  all the information from the client upfront (UHNW clients can't be directly reached by Fraud team, it has to be coordinated by Client Service team)
