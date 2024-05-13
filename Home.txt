@@ -26,3 +26,24 @@ Current State - #s - not defined
 future state to be defined but has goal
 
 quick hits
+
+
+•The SLA breach/Past due % varies every month between 10-20%.
+• It was 12.5% last month and it was 17% in Dec. The intent is to bring this % to 10% for now. (Total tickets last month was 631. Out of which past dues were 79)
+•KPIs - They check KPIs every month but it varies every month
+•OKR - They tried to establish that last year
+ 
+Goals:
+•Reduce turnaround time and manual processes
+•The goal was to find what is the overall turnaround time as far as the ticket would go
+•Reduce the turnaround time (SLA)
+•In Jan, the overall SLA time went down to 36 days. The intent is to bring it to below 30.
+•Reduce the manual processes that they are doing. Improve the timestamp of each individual task (being a middle person and following up with multiple teams via emails)
+•This report allows them to prioritize when there are multiple tickets with same kind of issues (Eg: 100 tickets are close to past due because of pending claim. They prioritize all of them and work with the team to close them). The Global Case report today is not accurate and found 25 to 30 difference
+•Reduce Past dues:
+•Avg time of ticket is 43.8 days today considering the entire inventory. This can be reduced using this report
+•SLA - below 30 (goal)
+•Past due - 10% (goal)
+•Reduce manual processes
+•Improve the timestamp
+•The report will help improve the process and reduce the cycle time
