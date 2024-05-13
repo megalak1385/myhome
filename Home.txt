@@ -65,3 +65,4 @@ This report helps prioritize tickets with similar issues, enabling efficient res
 Identifying discrepancies in the Global Case report aids in accurate prioritization.
 Targeting below 30 days for SLA, 10% past due rate, and reducing manual processes while improving timestamps are key objectives.
 The report is expected to enhance processes and decrease cycle time.
+Quick hits refer to areas such as identity theft, scams, and lost/stolen cases, which can be swiftly resolved to reduce turnaround or resolution time. For example, some cases like identity theft and certain scams can be closed on the same day.
