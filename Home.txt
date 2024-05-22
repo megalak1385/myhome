@@ -1,2 +1,3 @@
-We have discussed the statuses and impact level(high/low) for most of the items and the frequency of manual run for few items. But couldn’t cover the amount of manual effort involved in each item in the last meeting.
-@Brian – May I request you to share that information in this email?
+In our last meeting, we covered the statuses and impact levels (high/low) for most items, as well as the frequency of manual runs for a few. However, we didn’t discuss the amount of manual effort involved for each item.
+
+@Brian – Could you please share that information in this email?
