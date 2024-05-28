@@ -1,3 +1,39 @@
-In our last meeting, we covered the statuses and impact levels (high/low) for most items, as well as the frequency of manual runs for a few. However, we didn’t discuss the amount of manual effort involved for each item.
+I have recently learned a few things from my other automation teams with respect to Alteryx to Snowflake data movement. As I am building my Tactical Shift solution in Alteryx, I want to confirm what I learned is correct with you. If yes, I want to discuss the below points as it might impact our BAU team (GCM team)
+I want to confirm the below points:
+- Snowflake classifies the data into two categories 1) Credit Orbit data 2) Galaxy data
+- Galaxy data can be accessed from Alteryx but the credit orbit data is npt allowed to be accessed from Alteryx using FID in prodution env.
+- If we want to access Credit Orbit data, it has to be accessed via Qliksense or Unqork (Unqork for meridian data & Qliksense for Midori data)
+My questions:
+- Does qliksense have the live data? if no, how many days delay can we expect?
+- Can we get both galaxy & Credit Orbit data from Qliksense?
+- How can we query in qliksense when we need data from multiple tables?
+- Can we extract the qliksense data and store it in Shared drive?
+I have attached the data modle that we received from other teams here for your reference.
 
-@Brian – Could you please share that information in this email?
+I recently gained some insights from our other automation teams regarding the movement of data between Alteryx and Snowflake. As I am currently developing the Tactical Shift solution in Alteryx, I want to confirm the accuracy of this information with you. This is crucial since it could impact our Business As Usual (BAU) team, specifically the GCM team.
+
+Here are the key points I need confirmation on:
+
+Data Classification in Snowflake:
+Snowflake classifies data into two categories: 1) Credit Orbit data and 2) Galaxy data.
+Galaxy data can be accessed from Alteryx, but Credit Orbit data cannot be accessed from Alteryx using FID in the production environment.
+Access to Credit Orbit data requires either QlikSense or Unqork (with Unqork for Meridian data and QlikSense for Midori data).
+I have a few questions regarding this:
+
+Live Data in QlikSense:
+
+Does QlikSense provide live data? If not, what is the expected delay?
+Data Accessibility in QlikSense:
+
+Can both Galaxy and Credit Orbit data be accessed through QlikSense?
+Querying Multiple Tables in QlikSense:
+
+How can we perform queries in QlikSense that require data from multiple tables?
+Data Extraction and Storage:
+
+Is it possible to extract data from QlikSense and store it on a shared drive?
+For your reference, I have attached the data model received from other teams.
+
+I appreciate your assistance in confirming this information and look forward to your guidance.
+
+Best regards,
