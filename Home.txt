@@ -12,28 +12,7 @@ I have attached the data modle that we received from other teams here for your r
 
 I recently gained some insights from our other automation teams regarding the movement of data between Alteryx and Snowflake. As I am currently developing the Tactical Shift solution in Alteryx, I want to confirm the accuracy of this information with you. This is crucial since it could impact our Business As Usual (BAU) team, specifically the GCM team.
 
-Here are the key points I need confirmation on:
+When I think about our book of work, I could come up with Fraud first (Fraud Prevention & Remediation process optimizations and monthly score card creation).
+Apart from these, what I could think of one other item which you were also interested on was Monday.com. You liked this user board for our though it has some limitations in terms of expected features (related Jira). But not sue if it's really significant/urgent to ush it immediately to this Innovation program.
 
-Data Classification in Snowflake:
-Snowflake classifies data into two categories: 1) Credit Orbit data and 2) Galaxy data.
-Galaxy data can be accessed from Alteryx, but Credit Orbit data cannot be accessed from Alteryx using FID in the production environment.
-Access to Credit Orbit data requires either QlikSense or Unqork (with Unqork for Meridian data and QlikSense for Midori data).
-I have a few questions regarding this:
-
-Live Data in QlikSense:
-
-Does QlikSense provide live data? If not, what is the expected delay?
-Data Accessibility in QlikSense:
-
-Can both Galaxy and Credit Orbit data be accessed through QlikSense?
-Querying Multiple Tables in QlikSense:
-
-How can we perform queries in QlikSense that require data from multiple tables?
-Data Extraction and Storage:
-
-Is it possible to extract data from QlikSense and store it on a shared drive?
-For your reference, I have attached the data model received from other teams.
-
-I appreciate your assistance in confirming this information and look forward to your guidance.
-
-Best regards,
+When I consider our portfolio of work, the first thing that comes to mind is Fraud Prevention and Remediation process optimizations, along with the creation of monthly scorecards. Additionally, another item that you showed interest in was Monday.com. You appreciated this user board for our team, despite some limitations related to expected features (compared to Jira). However, I'm not sure if it's significant or urgent enough to prioritize for immediate inclusion in our Innovation program.
