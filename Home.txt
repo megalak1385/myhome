@@ -12,7 +12,14 @@ I have attached the data modle that we received from other teams here for your r
 
 I recently gained some insights from our other automation teams regarding the movement of data between Alteryx and Snowflake. As I am currently developing the Tactical Shift solution in Alteryx, I want to confirm the accuracy of this information with you. This is crucial since it could impact our Business As Usual (BAU) team, specifically the GCM team.
 
-When I think about our book of work, I could come up with Fraud first (Fraud Prevention & Remediation process optimizations and monthly score card creation).
-Apart from these, what I could think of one other item which you were also interested on was Monday.com. You liked this user board for our though it has some limitations in terms of expected features (related Jira). But not sue if it's really significant/urgent to ush it immediately to this Innovation program.
+Thank you all for your time today.
+As discussed, we can analyse the requirements and see 
+-	If this requirement can be implemented within Qliksense without using Alteryx. 
+o	The Qliksense can receive the arrangement ids and create the final report on the dashboard and email the report directly to individual/distros without having to store them in shared drive. 
 
-When I consider our portfolio of work, the first thing that comes to mind is Fraud Prevention and Remediation process optimizations, along with the creation of monthly scorecards. Additionally, another item that you showed interest in was Monday.com. You appreciated this user board for our team, despite some limitations related to expected features (compared to Jira). However, I'm not sure if it's significant or urgent enough to prioritize for immediate inclusion in our Innovation program.
+Next Action Items:
+-	Share the BRD with the Susan’s team (Who: Megala)
+-	Review the Qliksense dashboard and data to see if everything is available (Who: Megala)
+-	The team can look into the Business requirements and confirm if all of the business logics are feasible to implement in Qliksense script (Who: Shweta & Gopal)
+-	Schedule some time for Tuesday/Wednesday to determine if this solution can be implemented in Qliksense (Who: Susan)
+-	Share the Margin call report with Megala & Wendi (Who: Susan/Sweta/Gopal)
