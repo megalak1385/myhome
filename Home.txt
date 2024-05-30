@@ -23,3 +23,27 @@ Next Action Items:
 -	The team can look into the Business requirements and confirm if all of the business logics are feasible to implement in Qliksense script (Who: Shweta & Gopal)
 -	Schedule some time for Tuesday/Wednesday to determine if this solution can be implemented in Qliksense (Who: Susan)
 -	Share the Margin call report with Megala & Wendi (Who: Susan/Sweta/Gopal)
+
+
+Thank you all for your time today. Here is a summary of our discussion and the next steps:
+
+Discussion Points:
+
+We will analyze the requirements to determine if they can be implemented within Qliksense without using Alteryx.
+Qliksense can receive the arrangement IDs and generate the final report on the dashboard. This report can then be emailed directly to individuals or distribution lists without storing them on a shared drive.
+Next Action Items:
+
+Share the BRD with Susan’s team
+Who: Megala
+
+Review the Qliksense dashboard and data to ensure all necessary information is available
+Who: Megala
+
+Evaluate the business requirements and confirm the feasibility of implementing all business logic in Qliksense script
+Who: Shweta & Gopal
+
+Schedule a meeting for Tuesday/Wednesday to determine the feasibility of the Qliksense implementation
+Who: Susan
+
+Share the Margin Call report with Megala & Wendi
+Who: Susan/Shweta/Gopal
