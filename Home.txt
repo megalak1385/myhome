@@ -60,3 +60,9 @@ Thank you for your email. We have received some valuable inputs from Ayush, whic
 We are currently collaborating with Purvi’s team to explore how we can leverage Qlik to get what we need.
 Share the Margin Call report with Megala & Wendi
 Who: Susan/Shweta/Gopal
+
+Hi Susan,
+Thank you for spending time with me this week on the data analysis in Qlik Sense. 
+To move forward, I just want to follow up with your group on the BRD that I sent last week. I am wondering if you/Gopal/Shweta had a chance to look at the document to do the feasibility study. As I don’t see any invite to discuss these topics, I wanted to do a quick check in by sending you this email.
+Please let me know if you want me to schedule some time for us to regroup this week. I am more than happy to sit with you and walk you through the whole requirements.
+
