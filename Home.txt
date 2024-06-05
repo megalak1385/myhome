@@ -45,5 +45,9 @@ Who: Shweta & Gopal
 Schedule a meeting for Tuesday/Wednesday to determine the feasibility of the Qliksense implementation
 Who: Susan
 
+Thank you for your email Paige. We have received some inputs from Ayush which helped us to take this request further to Purvi’s team with more knowledge about what Snowflake can and cannot support. 
+We are currently working with Purvi’s team to see how we can leverage Qlik to get what we need.
+
+
 Share the Margin Call report with Megala & Wendi
 Who: Susan/Shweta/Gopal
