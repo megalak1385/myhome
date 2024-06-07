@@ -74,3 +74,8 @@ I would like to schedule some time with you and Brian to discuss the current pro
 I know you are still working on the data mapping and planning to complete the entire list of fields and regroup with us to discuss next steps.
 But I want to connect with you all once next Monday to talk through the business requirements and see if it’s feasible to implement everything in Qlick Sense or need both Alteryx & Qlick Sense.
 This discussion should not have to wait until you complete the data mapping.
+I know you are still working on the data mapping and plan to complete the entire list of fields before regrouping with us to discuss the next steps. However, I would like to connect with you all next Monday to talk through the business requirements and determine if it’s feasible to implement everything in Qlik Sense or if we need both Alteryx and Qlik Sense.
+
+I believe this discussion should not have to wait until the data mapping is complete.
+
+Please let me know if this time works for you, or suggest an alternative if needed.
