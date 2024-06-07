@@ -69,3 +69,8 @@ Please let me know if you want me to schedule some time for us to regroup this w
 I am Megala from the BOSS team. I received your contact information from Brian. I will be assisting you and Brian in building a new solution for your Xceptor solution - ABC.
 
 I would like to schedule some time with you and Brian to discuss the current process and requirements. During this meeting, we can also review any examples you may have. This session will help me understand the requirements better and start the analysis.
+
+
+I know you are still working on the data mapping and planning to complete the entire list of fields and regroup with us to discuss next steps.
+But I want to connect with you all once next Monday to talk through the business requirements and see if it’s feasible to implement everything in Qlick Sense or need both Alteryx & Qlick Sense.
+This discussion should not have to wait until you complete the data mapping.
