@@ -32,3 +32,6 @@ https://www.kaggle.com/code/dansbecker/your-first-machine-learning-model
 https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb#scrollTo=hiH7AC-NTniF
 https://www.tensorflow.org/tutorials/keras/classification
 
+I have reviewed the email conversations from the past two months. In most of the emails, you have referenced the old Jira IDs and IAHUB IDs, except for a few instances. After some digging, I was able to find new Jira IDs for four solutions, which I have added below.
+
+We primarily need the new Jira IDs for the LOB in-house solutions. If you could share the details for the remaining solutions, it would be greatly appreciated.
