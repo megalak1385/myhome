@@ -27,55 +27,8 @@ Next Action Items:
 In the next meeting, we can discuss our operating model, division of work, upcoming projects, and the roles and responsibilities of our team and Saran's team, as we are combining efforts moving forward
 Thank you all for your time today. Here is a summary of our discussion and the next steps:
 
-Discussion Points:
+Links AI:
+https://www.kaggle.com/code/dansbecker/your-first-machine-learning-model
+https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb#scrollTo=hiH7AC-NTniF
+https://www.tensorflow.org/tutorials/keras/classification
 
-We will analyze the requirements to determine if they can be implemented within Qliksense without using Alteryx.
-Qliksense can receive the arrangement IDs and generate the final report on the dashboard. This report can then be emailed directly to individuals or distribution lists without storing them on a shared drive.
-Next Action Items:
-
-Share the BRD with Susan’s team
-Who: Megala
-
-Review the Qliksense dashboard and data to ensure all necessary information is available
-Who: Megala
-
-Evaluate the business requirements and confirm the feasibility of implementing all business logic in Qliksense script
-Who: Shweta & Gopal
-
-Schedule a meeting for Tuesday/Wednesday to determine the feasibility of the Qliksense implementation
-Who: Susan
-
-Thank you for your email Paige. We have received some inputs from Ayush which helped us to take this request further to Purvi’s team with more knowledge about what Snowflake can and cannot support. 
-We are currently working with Purvi’s team to see how we can leverage Qlik to get what we need.
-
-
-Your email is clear but could benefit from a bit of refinement for better readability and professionalism. Here is an edited version:
-
-Subject: Update on Snowflake and Qlik Integration Efforts
-
-Hi Paige,
-
-Thank you for your email. We have received some valuable inputs from Ayush, which have helped us proceed with this request to Purvi’s team with a better understanding of what Snowflake can and cannot support.
-
-We are currently collaborating with Purvi’s team to explore how we can leverage Qlik to get what we need.
-Share the Margin Call report with Megala & Wendi
-Who: Susan/Shweta/Gopal
-
-Hi Susan,
-Thank you for spending time with me this week on the data analysis in Qlik Sense. 
-To move forward, I just want to follow up with your group on the BRD that I sent last week. I am wondering if you/Gopal/Shweta had a chance to look at the document to do the feasibility study. As I don’t see any invite to discuss these topics, I wanted to do a quick check in by sending you this email.
-Please let me know if you want me to schedule some time for us to regroup this week. I am more than happy to sit with you and walk you through the whole requirements.
-
-I am Megala from the BOSS team. I received your contact information from Brian. I will be assisting you and Brian in building a new solution for your Xceptor solution - ABC.
-
-I would like to schedule some time with you and Brian to discuss the current process and requirements. During this meeting, we can also review any examples you may have. This session will help me understand the requirements better and start the analysis.
-
-
-I know you are still working on the data mapping and planning to complete the entire list of fields and regroup with us to discuss next steps.
-But I want to connect with you all once next Monday to talk through the business requirements and see if it’s feasible to implement everything in Qlick Sense or need both Alteryx & Qlick Sense.
-This discussion should not have to wait until you complete the data mapping.
-I know you are still working on the data mapping and plan to complete the entire list of fields before regrouping with us to discuss the next steps. However, I would like to connect with you all next Monday to talk through the business requirements and determine if it’s feasible to implement everything in Qlik Sense or if we need both Alteryx and Qlik Sense.
-
-I believe this discussion should not have to wait until the data mapping is complete.
-
-Please let me know if this time works for you, or suggest an alternative if needed.
