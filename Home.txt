@@ -33,17 +33,8 @@ https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tut
 https://www.tensorflow.org/tutorials/keras/classification
 
 
-UPPER(SUBREGEX(SUBREGEX ([Sent Bene ID], "[^0-9A-Za-z]",""),"^0+",""))
-
-Remove non-alphanumeric characters:
-
-Input: "abc-123-00456"
-Output: "abc12300456"
-Remove leading zeros:
-
-Input: "abc12300456"
-Output: "abc12300456" (No leading zeros in this case)
-Convert to uppercase:
-
-Input: "abc12300456"
-Output: "ABC12300456"
+I am scheduling some time with you for tomorrow to review what I have done so far.
+I would say 50% of the build is completed and reviewing the Xceptor rules in order to complete the remaining 50%.
+I can leverage this session to review the completed portion and questions that I am putting together while reviewing the Xceptor rules.
+matches
+{AC\d+}
