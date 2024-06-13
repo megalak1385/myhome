@@ -34,3 +34,16 @@ https://www.tensorflow.org/tutorials/keras/classification
 
 
 UPPER(SUBREGEX(SUBREGEX ([Sent Bene ID], "[^0-9A-Za-z]",""),"^0+",""))
+
+Remove non-alphanumeric characters:
+
+Input: "abc-123-00456"
+Output: "abc12300456"
+Remove leading zeros:
+
+Input: "abc12300456"
+Output: "abc12300456" (No leading zeros in this case)
+Convert to uppercase:
+
+Input: "abc12300456"
+Output: "ABC12300456"
