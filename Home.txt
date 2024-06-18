@@ -41,3 +41,4 @@ Review the completed portion of the Xceptor build.
 Discuss and clarify any questions I have encountered while reviewing the Xceptor rules.
 matches
 {AC\d+}
+{[A-Z]{1}\d{8}}
