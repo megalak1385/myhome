@@ -42,3 +42,4 @@ Discuss and clarify any questions I have encountered while reviewing the Xceptor
 matches
 {AC\d+}
 {[A-Z]{1}\d{8}}
+REGEX_Match([Code], "{[A-Z]{1}\d{8}}")
