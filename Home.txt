@@ -43,3 +43,12 @@ matches
 {AC\d+}
 {[A-Z]{1}\d{8}}
 REGEX_Match([Code], "{[A-Z]{1}\d{8}}")
+Ensure my family's financial security Secure my financial future by investing in a diversified portfolio of stocks, bonds, real estate, and other assets.
+Set aside funds in a high-yield savings account for emergencies.
+Donate a significant portion to charitable causes I am passionate about, such as education, healthcare, and environmental conservation.
+Travel the world to experience different cultures and gain new perspectives.
+Support initiatives that promote education, health, and economic development in underserved areas.
+
+I enjoy learning new and latest technologies in the current automation team. I am happy to be in a job where I build AI, rather than being in a job that can be replaced by AI
+I am excited about expanding our team and look forward to learning new tools and technologies. My goal is to work on both individual and group assignments, leveraging this new knowledge to enhance our projects and overall performance.
+Something you might not know about me is that I have a passion for interior design and enjoy writing stories
