@@ -49,4 +49,7 @@ Donate a significant portion to charitable causes I am passionate about, such as
 Travel the world to experience different cultures and gain new perspectives.
 Support initiatives that promote education, health, and economic development in underserved areas.
 
-Thank you for your support and cooperation on the Xceptor Migration. I greatly appreciate the time and effort you dedicated to explaining the business requirements and Xceptor configuration logic in detail. Your insights were invaluable in helping me translate and build the requirements in Alteryx.
+
+Thank you for the excellent partnership and teamwork on all the Alteryx projects, including the Xceptor to Alteryx Migration and Tactical Trade. I truly appreciate your collaboration and your willingness to step in and offer help wherever needed, without hesitation.
+
+Thank you for the outstanding partnership and support in deploying my Unqork projects. I truly appreciate you going above and beyond by accommodating our last-minute deployment requests to UAT and Prod, even when submitted past the deadlines. Your prompt communication, responsiveness, and assistance whenever we encountered issues were invaluable. Your continuous support and coordination with the COEs greatly contributed to delivering an excellent client experience in a timely manner.
