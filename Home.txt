@@ -49,8 +49,4 @@ Donate a significant portion to charitable causes I am passionate about, such as
 Travel the world to experience different cultures and gain new perspectives.
 Support initiatives that promote education, health, and economic development in underserved areas.
 
-I enjoy learning new and latest technologies in the current automation team. I am happy to be in a job where I build AI, rather than being in a job that can be replaced by AI
-I am excited about expanding our team and look forward to learning new tools and technologies. My goal is to work on both individual and group assignments, leveraging this new knowledge to enhance our projects and overall performance.
-Something you might not know about me is that I have a passion for interior design and enjoy writing stories
-As a team, our goal is to significantly expand our growth and portfolio by developing more automation projects across Banking Operations using advanced AI tools on a larger scale. We aim to undertake key projects that attract greater attention, save more money for the bank, and enhance our team's reputation and credit.
-We had a dog back in India named Tommy. I enjoyed playing with him, especially games like hide and seek. My sister would cover his eyes while I hid somewhere. When she let him go, Tommy would search for me and often find me, pulling at my skirt to 'rescue' me.
+Thank you for your support and cooperation on the Xceptor Migration. I greatly appreciate the time and effort you dedicated to explaining the business requirements and Xceptor configuration logic in detail. Your insights were invaluable in helping me translate and build the requirements in Alteryx.
