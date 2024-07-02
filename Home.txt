@@ -50,6 +50,19 @@ Travel the world to experience different cultures and gain new perspectives.
 Support initiatives that promote education, health, and economic development in underserved areas.
 
 
-Thank you for the excellent partnership and teamwork on all the Alteryx projects, including the Xceptor to Alteryx Migration and Tactical Trade. I truly appreciate your collaboration and your willingness to step in and offer help wherever needed, without hesitation.
+I wanted to provide an update on the current status of our project and outline the next steps.
 
-Thank you for the outstanding partnership and support in deploying my Unqork projects. I truly appreciate you going above and beyond by accommodating our last-minute deployment requests to UAT and Prod, even when submitted past the deadlines. Your prompt communication, responsiveness, and assistance whenever we encountered issues were invaluable. Your continuous support and coordination with the COEs greatly contributed to delivering an excellent client experience in a timely manner.
+Completed Tasks:
+
+Successfully developed the Alteryx workflow using mock data in Excel.
+Current Status:
+
+During data mapping with the Snowflake team, we discovered that Snowflake does not allow Alteryx (IA tools) to access certain data schemas/tables from Credit Orbit.
+To overcome this, we had discussions and concluded that the entire implementation should be done using Qlik Sense instead of Alteryx. Qlik Sense is a self-service tool that your team already widely uses.
+Next Steps:
+
+The Snowflake team has agreed to collaborate with me to build this in Qlik Sense, as I am new to the tool. They are working on providing me access to Qlik Sense.
+Currently, we are facing some delays due to other high-priority items, but I am following up with the Snowflake team this week to expedite my access.
+Once I gain access to Qlik Sense, I will collaborate with the Snowflake team to build the logic and implement all business rules within Qlik Sense.
+
+I will keep you posted on the status, especially as I continue to balance this project with other tasks.
