@@ -50,19 +50,10 @@ Travel the world to experience different cultures and gain new perspectives.
 Support initiatives that promote education, health, and economic development in underserved areas.
 
 
-I wanted to provide an update on the current status of our project and outline the next steps.
+I am reaching out to you as Susan is currently on leave, and I was asked to contact you in her absence. Based on the recommendations from Susan and Shweta, we have decided to build the Tactical Shift requirement in Qlik Sense to make this a self-service tool. I will be collaborating with Shweta to implement this in Qlik Sense.
 
-Completed Tasks:
+Susan was assisting me in obtaining access to Qlik Sense. As it has been a couple of weeks and we have all been occupied with other priority items, I wanted to follow up with you regarding my access. Having this access is essential for me to start the build soon.
 
-Successfully developed the Alteryx workflow using mock data in Excel.
-Current Status:
+Could you please let me know when I can expect to have my access to Qlik Sense?
 
-During data mapping with the Snowflake team, we discovered that Snowflake does not allow Alteryx (IA tools) to access certain data schemas/tables from Credit Orbit.
-To overcome this, we had discussions and concluded that the entire implementation should be done using Qlik Sense instead of Alteryx. Qlik Sense is a self-service tool that your team already widely uses.
-Next Steps:
-
-The Snowflake team has agreed to collaborate with me to build this in Qlik Sense, as I am new to the tool. They are working on providing me access to Qlik Sense.
-Currently, we are facing some delays due to other high-priority items, but I am following up with the Snowflake team this week to expedite my access.
-Once I gain access to Qlik Sense, I will collaborate with the Snowflake team to build the logic and implement all business rules within Qlik Sense.
-
-I will keep you posted on the status, especially as I continue to balance this project with other tasks.
+Thank you for your assistance.
