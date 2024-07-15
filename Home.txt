@@ -203,4 +203,10 @@ All updates will be saved automatically once changes are made and tickets are sa
 Unqork will facilitate emailing the consolidated report to relevant groups.
 Automated email notifications will be sent when tickets are assigned to individuals.
 Overall, this application will serve as a comprehensive solution for managing the entire ticket lifecycle, streamlining processes, and improving efficiency.
+-	Process Ownership/Workflow:
+a.	Operations team assigns the tickets from the Operations public queue.
+b.	Once the exceptions are identified by Ops team, the reviewer assigns the transactions to the Front Office team member. 
+c.	The assigned Front office team member completes all remediation actions and assigns the transactions back to the reviewer in Operations team.
+d.	The reviewer from Operations team conducts a final review and close the transactions by marking them as cleared. 
+e.	Each time when the owner is changed, the notification should be sent to the individuals from Unqork.
 
