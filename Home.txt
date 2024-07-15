@@ -174,6 +174,12 @@ Charts displaying trends
 Ratios of pass and fail statuses, including counts from both Alteryx and manual reviewers
 Continuously updates the tracker based on progress and feedback from the remediation team.
 The team maintains and updates the entire population of tickets daily.
+-	Team details:
+o	All the validation, consolidation & monitoring processes are currently being performed by Operations team today (two reviewers and one SME).
+o	Once the exceptions are identified by Ops team and communicated to Front Office team, the Front office team will take all the remediation actions and notify the Operations team upon completion.
+o	After remediation, the Operations team will do the final review and close the transactions by marking it cleared. 
+
+
 2. Problem Statement:
 
 Difficulty in monitoring metrics, progress, and SLAs for each ticket.
