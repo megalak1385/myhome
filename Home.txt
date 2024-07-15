@@ -210,3 +210,15 @@ c.	The assigned Front office team member completes all remediation actions and a
 d.	The reviewer from Operations team conducts a final review and close the transactions by marking them as cleared. 
 e.	Each time when the owner is changed, the notification should be sent to the individuals from Unqork.
 
+
+The Operations team, which includes two reviewers and one Subject Matter Expert (SME), is responsible for all validation, consolidation, and monitoring activities.
+Once exceptions are identified by the Operations team, they communicate these to the Front Office team.
+The Front Office team is tasked with performing all necessary remediation actions and informing the Operations team upon completion.
+Following remediation, the Operations team conducts a final review to ensure all issues have been addressed and then closes the transactions by marking them as cleared.
+
+
+The Operations team is responsible for initially assigning tickets from the Operations public queue.
+Once exceptions are identified, the Operations reviewer assigns the transactions to a designated Front Office team member for remediation.
+The Front Office team member executes all necessary remediation actions and then reassigns the transactions back to the Operations reviewer.
+The Operations reviewer conducts a final review of the remediated transactions and closes them by marking them as cleared.
+Each time a ticket changes ownership, Unqork automatically sends a notification to the relevant individuals to ensure seamless communication and tracking.
