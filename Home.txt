@@ -222,3 +222,25 @@ Once exceptions are identified, the Operations reviewer assigns the transactions
 The Front Office team member executes all necessary remediation actions and then reassigns the transactions back to the Operations reviewer.
 The Operations reviewer conducts a final review of the remediated transactions and closes them by marking them as cleared.
 Each time a ticket changes ownership, Unqork automatically sends a notification to the relevant individuals to ensure seamless communication and tracking.
+
+
+3.	Current Process - Manual:
+-	The Alteryx workflow produces the recon file by consuming various reports from various dashboards and applications.
+-	RAF & Reg reports provide attestations information and ACAT & OMNI reports provide Securities & Cash transactions information.
+-	Alteryx engine consumes these reports and validates credits made to retirement accounts have an appropriate attestation on file. 
+-	After validation, Alteryx recon produces exceptions and pass transactions. The team manually reviews these exceptions and advise on next steps.
+-	The team particularly reviews the failed ones and conducts further investigations to identify true exceptions and false positives.
+-	Post review, some of these would become false positive, true exceptions and require remediation or pending and needs additional review/documentations. 
+o	The team then logs all final status to a consolidated file for tracking and reporting. This tracker includes:
+	Current statuses of exceptions
+	Charts displaying trends
+	Ratios of pass and fail statuses, including counts from both Alteryx and manual reviewers
+-	DMO maintains the consolidated file and ensures it is up to date.
+4.	Problem Statement:
+-	All data are saved in .xlsx prompting an increased risk of losing data. Time consuming, higher possibility for error rate given how manual this is. Extremely challenging to track SLA and the shared drive is not compliant.
+-	Maintaining all data in an Excel sheet, which lacks a user-friendly UX/UI interface.
+-	Performance issues due to the growing volume of data, leading to potential Excel crashes.
+-	Time-consuming manual processes, including:
+o	Email communications and tracking for each ticket
+o	Status updates and chart modifications as tickets progress
+o	Adding transactions and calculating pass/fail ratios in the consolidated report
