@@ -244,3 +244,25 @@ o	The team then logs all final status to a consolidated file for tracking and re
 o	Email communications and tracking for each ticket
 o	Status updates and chart modifications as tickets progress
 o	Adding transactions and calculating pass/fail ratios in the consolidated report
+
+///
+Current Process - Manual:
+The Alteryx workflow generates the recon file by consuming various reports from multiple dashboards and applications.
+Reports such as RAF & Reg provide attestation information, while ACAT & OMNI reports provide details on securities and cash transactions.
+The Alteryx engine processes these reports to validate that credits made to retirement accounts have the appropriate attestation on file.
+After validation, the Alteryx recon produces exceptions and pass transactions. The team manually reviews these exceptions and determines the next steps.
+The team specifically reviews the failed transactions, conducting further investigations to identify true exceptions and false positives.
+Post-review, these transactions are classified as false positives, true exceptions requiring remediation, or pending for additional review/documentation.
+The team logs all final statuses in a consolidated file for tracking and reporting. This tracker includes:
+Current statuses of exceptions
+Charts displaying trends
+Ratios of pass and fail statuses, including counts from both Alteryx and manual reviewers
+The DMO maintains the consolidated file and ensures it is up to date.
+Problem Statement:
+Data is saved in .xlsx format, increasing the risk of data loss. The manual process is time-consuming and prone to errors. Tracking SLAs is extremely challenging, and the shared drive is not compliant.
+Maintaining all data in an Excel sheet lacks a user-friendly UX/UI interface.
+Performance issues arise due to the growing volume of data, leading to potential Excel crashes.
+Time-consuming manual processes include:
+Email communications and tracking for each ticket
+Status updates and chart modifications as tickets progress
+Adding transactions and calculating pass/fail ratios in the consolidated report
