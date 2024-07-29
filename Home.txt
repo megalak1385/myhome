@@ -266,3 +266,13 @@ Time-consuming manual processes include:
 Email communications and tracking for each ticket
 Status updates and chart modifications as tickets progress
 Adding transactions and calculating pass/fail ratios in the consolidated report
+
+-	The dashboard will host a consolidated list of all tickets, allowing users to filter by dates, statuses, and reasons.
+-	Visual representations, including charts and total ticket counts based on status and reason, will be displayed on the dashboard.
+-	Unqork/Workhub will categorize tickets into pass and fail groups, with further subcategories for failed tickets based on reasons.
+-	Both Operations and Front Office teams will have the capability to view, edit, and assign tickets directly from the dashboard according to their entitlements.
+-	The platform will allow users to change statuses, add comments, and attach files as needed. But only the Operations team is permitted to change the status of the tickets.
+-	All updates will be saved automatically once changes are made and tickets are submitted.
+-	Allow Operations team to email the consolidated report to relevant groups from the dashboard.
+-	Automated email notifications will be sent when tickets are assigned to individuals.
+-	Overall, this application will serve as a comprehensive solution for managing the entire ticket lifecycle, streamlining processes, and improving efficiency.
