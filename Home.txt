@@ -276,3 +276,18 @@ Adding transactions and calculating pass/fail ratios in the consolidated report
 -	Allow Operations team to email the consolidated report to relevant groups from the dashboard.
 -	Automated email notifications will be sent when tickets are assigned to individuals.
 -	Overall, this application will serve as a comprehensive solution for managing the entire ticket lifecycle, streamlining processes, and improving efficiency.
+
+
+
+What we discussed?
+-	Reviewed the below three approaches and our findings, challenges & timelines for each solution
+-	Agreed to go with the third approach (Using Unqork)
+-	Reviewed the entire project plan and timelines
+-	Team is fine with the overall timelines which is 4 months and the target delivery date would be end of Nov
+-	Touched on the benefits
+
+Action Items:
+o	Megala to update the UAT testing time from 1 week to 3 weeks on the project plan (with the target of end of Nov)
+o	Adam to share the benefits with the numbers
+o	Adam requested a demo of existing Unqork project that is being used by FO team today and schedule a meeting for next week
+o	Megala to proceed with the project plan creating the new process models and completing the business requirements next week
