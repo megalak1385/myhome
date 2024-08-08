@@ -291,3 +291,16 @@ o	Megala to update the UAT testing time from 1 week to 3 weeks on the project pl
 o	Adam to share the benefits with the numbers
 o	Adam requested a demo of existing Unqork project that is being used by FO team today and schedule a meeting for next week
 o	Megala to proceed with the project plan creating the new process models and completing the business requirements next week
+
+
+Discussion Summary:
+Reviewed three proposed approaches, discussing findings, challenges, and timelines for each.
+Reached consensus to proceed with the third approach, which involves using Unqork.
+Reviewed the entire project plan and timeline.
+The team agreed on the overall timeline, which is set for four months, with a target delivery date at the end of November.
+Briefly discussed the key benefits of the chosen approach.
+Action Items:
+Megala: Update the UAT testing duration from 1 week to 3 weeks in the project plan, aligning with the target end-of-November delivery.
+Adam: Share the quantified benefits with the team.
+Adam: Request a demo of the existing Unqork project currently used by the Front Office team, and schedule a follow-up meeting for next week.
+Megala: Proceed with the project plan by creating new process models and completing the business requirements by next week.
